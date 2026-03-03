@@ -14,6 +14,19 @@ a { text-decoration: none; color: inherit; }
   border-bottom: 1px solid #eee;
   z-index: 10;
 }
+
+.top-wrapper{
+  height: 360px;              
+  background-image: url("sogo.jpg");
+  background-size: cover;     
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 16px;        
+  margin: 24px auto;
+  max-width: 1000px;
+}
+
+  
 .header-inner {
   display: flex;
   align-items: center;
@@ -138,3 +151,4 @@ input, select, textarea {
   .nav { display: none; }
   .hero h1 { font-size: 30px; }
 }
+
