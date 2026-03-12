@@ -106,7 +106,7 @@ a { text-decoration: none; color: inherit; }
 }
 .price-card {
   background: white;
-  border: 1px solid #eee;
+  border: 2px solid #eee;
   border-radius: 16px;
   padding: 16px;
 }
@@ -152,5 +152,6 @@ input, select, textarea {
   .nav { display: none; }
   .hero h1 { font-size: 30px; }
 }
+
 
 
