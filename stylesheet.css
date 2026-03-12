@@ -31,7 +31,7 @@ a { text-decoration: none; color: inherit; }
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 64px;
+  height: 100px;
 }
 .logo { font-weight: 700; }
 　font-size:1000px;
@@ -40,7 +40,7 @@ a { text-decoration: none; color: inherit; }
   display: flex;
   gap: 14px;
   align-items: center;
-  font-size: 14px;
+  font-size: 50px;
 }
 .nav-cta {
   padding: 8px 12px;
@@ -152,6 +152,7 @@ input, select, textarea {
   .nav { display: none; }
   .hero h1 { font-size: 30px; }
 }
+
 
 
 
