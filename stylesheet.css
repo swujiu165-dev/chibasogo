@@ -34,6 +34,7 @@ a { text-decoration: none; color: inherit; }
   height: 64px;
 }
 .logo { font-weight: 700; }
+　font-size:300px;
 
 .nav {
   display: flex;
@@ -151,4 +152,5 @@ input, select, textarea {
   .nav { display: none; }
   .hero h1 { font-size: 30px; }
 }
+
 
