@@ -10,13 +10,13 @@ a { text-decoration: none; color: inherit; }
 .header {
   position: sticky;
   top: 0;
-  background: white;
+  background: black;
   border-bottom: 1px solid #eee;
   z-index: 10;
 }
 
 .top-wrapper{
-  height: 360px;              
+  height: 100px;              
   background-image: url("sogo.jpg");
   background-size: cover;     
   background-position: center;
@@ -31,10 +31,10 @@ a { text-decoration: none; color: inherit; }
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 100px;
+  height: 40px;
 }
 .logo { font-weight: 700; }
-　font-size:1000px;
+　font-size:400px;
   color:#2986cc;
 
 .nav {
@@ -154,6 +154,7 @@ input, select, textarea {
   .nav { display: none; }
   .hero h1 { font-size: 30px; }
 }
+
 
 
 
