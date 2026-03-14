@@ -75,11 +75,12 @@ a { text-decoration: none; color: inherit; }
   font-weight: 600;
 }
 .btn.primary {
-  background: #111;
+  
   color: white;
   border-color: #111;
+  background-color: #D1FFD1
 }
-.btn.ghost { background: white; color: #111; }
+.btn.ghost { background: #D1FFD1; color: #111; }
 
 .points { margin: 18px 0 0; padding-left: 18px; }
 
@@ -95,7 +96,7 @@ a { text-decoration: none; color: inherit; }
   margin-top: 18px;
 }
 .card {
-  background: white;
+  background: #D1FFD1;
   border: 1px solid #eee;
   border-radius: 16px;
   padding: 16px;
