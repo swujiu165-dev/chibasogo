@@ -47,6 +47,7 @@ a { text-decoration: none; color: inherit; }
   padding: 8px 12px;
   border: 1px solid #ddd;
   border-radius: 999px;
+  background-color:#D1FFD1;
 }
 
 .hero { padding: 56px 0; }
